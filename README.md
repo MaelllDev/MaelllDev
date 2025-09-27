@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Mael.
 
-💻 Sou apaixonado por programação, design gráfico e por criar coisas do zero — seja um mod de jogo, um aplicativo desktop ou até sites.<br><br>🚀 Tô sempre aprendendo coisas novas em programação, design e desenvolvimento de software.<br><br>⚡ Não vou dizer que domino tudo (porque não domino 😅), mas tô sempre buscando aprender um pouco de tudo. Já mexi com várias linguagens de programação, explorei ferramentas diferentes e curto me arriscar em áreas novas sempre que aparece a chance.
+<br>💻 Sou apaixonado por programação, design gráfico e por criar coisas do zero — seja um mod de jogo, um aplicativo desktop ou até sites.<br><br>🚀 Tô sempre aprendendo coisas novas em programação, design e desenvolvimento de software.<br><br>⚡ Não vou dizer que domino tudo (porque não domino 😅), mas tô sempre buscando aprender um pouco de tudo. Já mexi com várias linguagens de programação, explorei ferramentas diferentes e curto me arriscar em áreas novas sempre que aparece a chance.
 
 ---
 
