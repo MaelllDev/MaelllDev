@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats:
 ![MaelllDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelllDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelllDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelllDev&layout=compact&theme=radical)  
 
 🚀 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=MaelllDev&color=blue)
