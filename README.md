@@ -24,6 +24,6 @@
 ## 📫 Connect with Me  
 
 📩 Sinta-se à vontade para entrar em contato no **Discord** ou no **GitHub** para colaboração ou dúvidas!  
-https://guns.lol/manoshits
+https://guns.lol/manoshits<br>https://maellldev.github.io/InfoMe/
 
 ---
