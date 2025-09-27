@@ -1,10 +1,6 @@
 # 👋 Oi, eu sou o Mael.
 
-💻 Sou apaixonado por programação, design gráfico e por criar coisas do zero
-seja um mod de jogo, um aplicativo desktop ou até sites.
-🚀 Tô sempre aprendendo coisas novas em programação, design e desenvolvimento de software.
-⚡ Não vou dizer que domino tudo (porque não domino 😅), mas tô sempre buscando aprender um pouco de tudo.
-Já mexi com várias linguagens de programação, explorei ferramentas diferentes e curto me arriscar em áreas novas sempre que aparece a chance.
+<br><br>💻 Sou apaixonado por programação, design gráfico e por criar coisas do zero — seja um mod de jogo, um aplicativo desktop ou até sites.<br><br>🚀 Tô sempre aprendendo coisas novas em programação, design e desenvolvimento de software.<br><br>⚡ Não vou dizer que domino tudo (porque não domino 😅), mas tô sempre buscando aprender um pouco de tudo. Já mexi com várias linguagens de programação, explorei ferramentas diferentes e curto me arriscar em áreas novas sempre que aparece a chance.
 
 ---
 
@@ -12,7 +8,7 @@ Já mexi com várias linguagens de programação, explorei ferramentas diferente
 ![MaelllDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelllDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelllDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🚀 **Profile Views:**
+🚀 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=MaelllDev&color=blue)
 
 ---
@@ -25,4 +21,9 @@ Já mexi com várias linguagens de programação, explorei ferramentas diferente
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect with Me  
+
+📩 Sinta-se à vontade para entrar em contato no **Discord** ou no **GitHub** para colaboração ou dúvidas!  
+https://guns.lol/manoshits
+
+---
